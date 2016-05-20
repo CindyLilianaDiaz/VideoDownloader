@@ -1,0 +1,18 @@
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\YouTubeDownloader.exe.config
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\YouTubeDownloader.exe
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\YouTubeDownloader.pdb
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\Newtonsoft.Json.dll
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\YoutubeExtractor.dll
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\Newtonsoft.Json.xml
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\bin\Debug\YoutubeExtractor.xml
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.csprojResolveAssemblyReference.cache
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.Properties.Resources.resources
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.SplashScreen.resources
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.YouTubeDownloader.resources
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.csproj.GenerateResource.Cache
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.exe
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.pdb
+c:\users\cindy\documents\visual studio 2015\Projects\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.AboutBox.resources
+C:\Users\Cindy Diaz\Documents\Fourth Semester\GitHub Projects\Cindy.Diaz.Assignment3\YouTubeDownloader\YouTubeDownloader\bin\Debug\YouTubeDownloader.exe.config
+C:\Users\Cindy Diaz\Documents\Fourth Semester\GitHub Projects\Cindy.Diaz.Assignment3\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.exe
+C:\Users\Cindy Diaz\Documents\Fourth Semester\GitHub Projects\Cindy.Diaz.Assignment3\YouTubeDownloader\YouTubeDownloader\obj\Debug\YouTubeDownloader.pdb
